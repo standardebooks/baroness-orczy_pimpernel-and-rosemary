@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://gutenberg.net.au/ebooks06/0602631h.html</dc:source>
 		<dc:source>https://books.google.com/books?id=pD41AAAAMAAJ</dc:source>
-		<meta property="se:production-notes">At the time of production, no US transcription existed, so a Project Gutenberg Australia transcription was used and compared against a US PD scan.</meta>
+		<meta property="se:production-notes">At the time of production, no US transcription existed, so a Project Gutenberg Australia transcription was used and compared against a US PD scan. There were quite a few problems with the transcription, including several missing pages in chapter 32 and missing sentences in several others. Most of the emphasis italics were missing from the transcription and had to be added.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pimpernel_and_Rosemary</meta>
