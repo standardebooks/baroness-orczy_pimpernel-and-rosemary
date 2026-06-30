@@ -1,0 +1,1 @@
+At the time of production, no US transcription existed, so a Project Gutenberg Australia transcription was used and compared against a US PD scan. There were quite a few problems with the transcription, including several missing pages in chapter 32 and missing sentences in several others. Most of the emphasis italics were missing from the transcription and had to be added.
