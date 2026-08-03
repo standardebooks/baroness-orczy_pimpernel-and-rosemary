@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/baroness-orczy/pimpernel-and-rosemary</dc:identifier>
 		<dc:date>2021-01-22T18:01:40Z</dc:date>
@@ -41,11 +41,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Scarlet Pimpernel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">17</meta>
-		<dc:description id="description">A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A famous journalist is drawn into the intrigues of two Eastern European nations in the aftermath of World War I.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Rosemary, the former love of Peter Blakeney, is about to be married to one of Peter’s friends. A famous journalist, she is asked to come to Transylvania and report on the Romanian occupation following the first World War, having travelled there many times in her childhood with Peter’s mother. She agrees to move up her wedding so that her fiancé can travel with her. Soon after they get there, Peter’s nephew and girlfriend are arrested for treason, and Rosemary is given a terrible choice—all while Peter arrives in the country as well, seemingly working against his own family.&lt;/p&gt;
 			&lt;p&gt;Just as she went back several generations in previous entries in the series, this time the &lt;a href="https://standardebooks.org/ebooks/baroness-orczy"&gt;Baroness Orczy&lt;/a&gt; goes forward several, to the years immediately following World War I. Having grown up in Hungary, she sets the story in an area of the world very familiar to her, weaving her fictional characters into the real-world history of the time.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks06/0602631h.html</dc:source>
 		<dc:source>https://books.google.com/books?id=pD41AAAAMAAJ</dc:source>
